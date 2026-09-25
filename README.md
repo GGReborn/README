@@ -20,6 +20,7 @@ We decided to write a custom TCP socket server, because we cant afford SmartFox 
 
 ## My letter to GoodGame Studios (1/22/2026)
 **Subject**: Request for Permission to Use GoodGame Café Game Assets.
+
 Dear GoodGame Studios,
 My name is Bence Fodor from the GGReborn team (GoodGame Reborn).
 I'm contacting you because 4-5 years ago, a small fan group started a project named GoodGame Café Reborn, focused on reviving the old GoodGame Café.
